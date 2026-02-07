@@ -4,28 +4,6 @@
 
 FarmFlow is a web-based application designed to help organic multilayer farmers survive and thrive through systematic planning of cash-flow, labor, and direct selling. Unlike advisory apps, FarmFlow is a planning + survival + selling system that addresses the ground reality: organic multilayer farming is profitable only when diversification, cost control, and right buyer discovery are planned month-by-month.
 
-### AWS Sponsorship
-
-**This project is powered by AWS (Amazon Web Services) sponsorship**, providing access to enterprise-grade cloud infrastructure and services. This sponsorship enables:
-
-- Reduced infrastructure costs (estimated 60-70% savings)
-- Access to premium AWS services (RDS Multi-AZ, ElastiCache, CloudFront, etc.)
-- Enhanced security features (WAF, Shield, GuardDuty)
-- Scalability without significant cost increases
-- AWS technical support and architecture guidance
-- Free tier benefits for first 12 months
-- Credits for compute, storage, and data transfer
-
-**Key Benefits:**
-- Year 1 infrastructure savings: $10,000-15,000
-- Ongoing annual savings: $8,000-12,000
-- Enterprise-grade reliability and security
-- Global CDN for fast content delivery
-- Automated backups and disaster recovery
-- Compliance certifications (ISO, SOC, HIPAA-ready)
-
----
-
 ## Core Requirements
 
 ## Technology Stack
@@ -94,6 +72,27 @@ FarmFlow is a web-based application designed to help organic multilayer farmers 
 
 ### Infrastructure & Hosting
 
+### AWS Sponsorship
+
+**If project is powered by AWS (Amazon Web Services) sponsorship**, providing access to enterprise-grade cloud infrastructure and services. It enables:
+
+- Reduced infrastructure costs (estimated 60-70% savings)
+- Access to premium AWS services (RDS Multi-AZ, ElastiCache, CloudFront, etc.)
+- Enhanced security features (WAF, Shield, GuardDuty)
+- Scalability without significant cost increases
+- AWS technical support and architecture guidance
+- Free tier benefits for first 12 months
+- Credits for compute, storage, and data transfer
+
+**Key Benefits:**
+- Year 1 infrastructure savings: $10,000-15,000
+- Ongoing annual savings: $8,000-12,000
+- Enterprise-grade reliability and security
+- Global CDN for fast content delivery
+- Automated backups and disaster recovery
+- Compliance certifications (ISO, SOC, HIPAA-ready)
+
+---
 **Cloud Provider: AWS (Amazon Web Services)**
 
 *Note: This project is powered by AWS sponsorship, leveraging their comprehensive cloud infrastructure and services.*
