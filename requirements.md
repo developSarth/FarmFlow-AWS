@@ -13,11 +13,11 @@ FarmFlow is a web-based application designed to help organic multilayer farmers 
 **Framework & Libraries:**
 - React.js 18+ (UI framework)
 - React Router (navigation)
-- Redux Toolkit or Context API (state management)
+- Context API (state management)
 - Axios (HTTP client)
 - React Hook Form (form handling)
-- Chart.js or Recharts (data visualization)
-- Leaflet or Google Maps API (map visualization)
+- Chart.js (data visualization)
+- Leaflet (map visualization)
 - i18next (internationalization)
 - Tailwind CSS or Material-UI (styling)
 
@@ -31,12 +31,10 @@ FarmFlow is a web-based application designed to help organic multilayer farmers 
 - CDN: $20-50/month (Cloudflare or AWS CloudFront)
 
 ---
-
 ### Backend
 
 **Framework:**
-- Node.js 18+ with Express.js
-- OR Python 3.10+ with FastAPI/Django
+- Python 3.10+ with FastAPI
 
 **Libraries & Tools:**
 - JWT (jsonwebtoken) - authentication
@@ -57,8 +55,7 @@ FarmFlow is a web-based application designed to help organic multilayer farmers 
 ### Database
 
 **Primary Database:**
-- PostgreSQL 14+ (recommended)
-- OR MySQL 8+
+- PostgreSQL 18 (recommended)
 
 **Caching:**
 - Redis 7+ (session management, caching)
@@ -187,13 +184,13 @@ FarmFlow is a web-based application designed to help organic multilayer farmers 
 
 **Required:**
 - SMS/OTP: AWS SNS (included in AWS sponsorship) or MSG91 for India-specific ($50-200/month)
-- Maps API: Google Maps or Mapbox ($0-200/month based on usage)
+- Maps API: Mapbox ($0-200/month based on usage)
 - Email: AWS SES (included in AWS sponsorship, very cost-effective)
 
 **Optional:**
-- Payment Gateway: Razorpay, Stripe (2-3% transaction fee)
-- Push Notifications: AWS SNS or Firebase Cloud Messaging (free)
-- Analytics: AWS CloudWatch Insights (included) or Google Analytics (free)
+- Payment Gateway: Razorpay
+- Push Notifications: AWS SNS 
+- Analytics: AWS CloudWatch Insights (included)
 
 **Note:** With AWS sponsorship, SNS and SES costs are significantly reduced or covered.
 
